@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-st.page_link("pages/myproject.py", label="回專案首頁", icon=":material/Arrow Back:")
+st.page_link("pages/myproject.py", label="回專案首頁", icon=":material/arrow_back:")
 
 if st.button("返回專案首頁2"):
     st.switch_page("pages/myproject.py")
