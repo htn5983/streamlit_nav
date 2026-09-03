@@ -9,8 +9,8 @@ menuList={
         st.Page("pages/project1.py",title="執行專案1"),
         st.Page("pages/project2.py",title="執行專案2"),
         st.Page("pages/myproject.py",title="執行專案"),
-        st.Page("https://htn5983.github.io/myproject/",title="我的GitHub.io專案"),
-        st.Page("https://github.com/htn5983/",title="GitHub其他專案")
+        st.Page("https://htn5983.github.io/myproject/",title="我的GitHub.io專題"),
+        st.Page("https://github.com/htn5983",title="GitHub其他專題", icon=":material/merge:")
         ]
 }
 
